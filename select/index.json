@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "ever free",
+  "base_artist": "hide",
+  "createdAt": "2026-02-07T12:42:00.505412Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ever free",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": true,
+      "path": "select/01_ever_free_Ayumi_Hamasaki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ever free",
+      "artist": "浜崎あゆみ",
+      "has_synced": true,
+      "path": "select/02_ever_free_浜崎あゆみ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ever free - HΛL'S MIX 2000",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": true,
+      "path": "select/03_ever_free_-_HΛL'S_MIX_2000_Ayumi_Hamasaki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ever free \"HΛL'S MIX 2000\"",
+      "artist": "浜崎あゆみ",
+      "has_synced": true,
+      "path": "select/04_ever_free__HΛL'S_MIX_2000_浜崎あゆみ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ever free (Inst. Melo version)",
+      "artist": "浜崎あゆみ",
+      "has_synced": false,
+      "path": "select/05_ever_free_(Inst._Melo_version)_浜崎あゆみ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ever free “HΛL'S MIX 2000”",
+      "artist": "浜崎あゆみ",
+      "has_synced": true,
+      "path": "select/06_ever_free_“HΛL'S_MIX_2000”_浜崎あゆみ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ever-Free",
+      "artist": "Hide",
+      "has_synced": true,
+      "path": "select/07_Ever-Free_Hide.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ever free",
+      "artist": "hide",
+      "has_synced": true,
+      "path": "select/08_ever_free_hide.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ever free",
+      "artist": "hide with Spread Beaver",
+      "has_synced": true,
+      "path": "select/09_ever_free_hide_with_Spread_Beaver.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ever free",
+      "artist": "hide with Spread Beaver",
+      "has_synced": true,
+      "path": "select/10_ever_free_hide_with_Spread_Beaver.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ever Free",
+      "artist": "Massive New Krew",
+      "has_synced": true,
+      "path": "select/11_Ever_Free_Massive_New_Krew.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ever Free",
+      "artist": "hide",
+      "has_synced": false,
+      "path": "select/12_Ever_Free_hide.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nothing Is Ever Free In St. Tropez (feat. Michael Ghegan)",
+      "artist": "Jimmy Sax",
+      "has_synced": true,
+      "path": "select/13_Nothing_Is_Ever_Free_In_St._Tropez_(feat._Michael_Ghegan)_Jimmy_Sax.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ever free",
+      "artist": "Takanori Nishikawa",
+      "has_synced": false,
+      "path": "select/14_ever_free_Takanori_Nishikawa.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Are you still dreaming ever-free?",
+      "artist": "Love Psychedelico",
+      "has_synced": true,
+      "path": "select/15_Are_you_still_dreaming_ever-free_Love_Psychedelico.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ever free",
+      "artist": "Hamasaki Ayumi",
+      "has_synced": true,
+      "path": "select/16_ever_free_Hamasaki_Ayumi.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Nothing Is Ever Free in St. Tropez",
+      "artist": "Jimmy Sax feat. Michael Ghegan",
+      "has_synced": true,
+      "path": "select/17_Nothing_Is_Ever_Free_in_St._Tropez_Jimmy_Sax_feat._Michael_Ghegan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ever free",
+      "artist": "hide",
+      "has_synced": false,
+      "path": "select/pl_01_ever_free_hide.txt"
+    }
+  ]
+}
